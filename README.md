@@ -28,3 +28,6 @@ Download the files in this repo.
 
 run ```source run.sh``` adjust blender path
 
+### SMPLify 
+
+https://smplify.is.tue.mpg.de/download.php
