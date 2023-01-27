@@ -31,3 +31,7 @@ run ```source run.sh``` adjust blender path
 ### SMPLify 
 
 https://smplify.is.tue.mpg.de/download.php
+
+### If chumpy error
+
+https://blog.csdn.net/qq_28660035/article/details/81319055
